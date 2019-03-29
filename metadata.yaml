@@ -1,5 +1,8 @@
 _repo: The-Historians-History-of-the-World-in-Twenty-Five-Volumes-Volume-7-The-History-of-the-Later-__59134
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 59134-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/698
     wikipedia: http://en.wikipedia.org/wiki/Henry_Smith_Williams
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59134#The-Historians-History-of-the-World-in-Twenty-Five-Volumes-Volume-7-The-History-of-the-Later-_
 gutenberg_issued: '2019-03-26'
 gutenberg_type: Text
 identifiers:
